@@ -44,7 +44,6 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <li> Priscila Petris </li>
 <li> Paloma Morais </li>
 <li> Fernando Favalle </li>
-<li> <a href="https://catarinaroman.github.io/" target="_blank" rel="external"> Catarina Roman </a> </li>
 <li> Cicley Dias </li>
 <li> Giovanna França </li>
 <li> Ingrid Meirelles </li>
@@ -61,6 +60,7 @@ Brazil, the Americas, and the World is funded by The São Paulo Research Foundat
 <li> Luis Fernando Baracho </li>
 <li> Enrique Natalino </li>
 <li> Allegra Levandoski </li>
+<li> <a href="https://catarinaroman.github.io/" target="_blank" rel="external"> Catarina Roman </a> </li>
 <br />
 <br />
 
@@ -81,47 +81,47 @@ The project team produces reports -- in Portuguese -- for each wave of the surve
 
 <iframe src="https://drive.google.com/file/d/1XU-iezaawkZ__0-5wtsOxFdNo9_t0k2U/preview" width="600" height="480" allow="autoplay"></iframe>
 
-If your browser does not support pdfs, you can download the 2014 report [here](https://github.com/catarinaroman/las-americas/blob/main/reports/relatorio-2014.pdf).
+If your browser does not support pdfs, you can download the 2014 report [here](https://github.com/las-americas/cebrap/blob/gh-pages/reports/relatorio-2014.pdf).
 
 We also present the report for the 2010 survey wave.
 
 <iframe src="https://drive.google.com/file/d/17JvmmcezDLfwXlA50dZ7_Wg2zkNofvfU/preview" width="600" height="480" allow="autoplay"></iframe>
 
-If your browser does not support pdfs, you can download the 2010 report [here](https://github.com/catarinaroman/las-americas/blob/main/reports/relatorio-2010.pdf)
+If your browser does not support pdfs, you can download the 2010 report [here](https://github.com/las-americas/cebrap/blob/gh-pages/reports/relatorio-2010.pdf)
 
 # Databases and Codebooks
 
 ## 2019
 
-The dataset for the 2019 Brazilian wave of the survey can be downloaded [here](https://github.com/catarinaroman/las-americas/blob/main/2019-files/2019-database.csv)
+The dataset for the 2019 Brazilian wave of the survey can be downloaded [here](https://github.com/las-americas/cebrap/blob/gh-pages/2019-files/2019-database.csv)
 
 The corresponding codebook follows below:
 <iframe src="https://drive.google.com/file/d/1hLDwlvfEoPG6_gxILRgOZKBv7rng_azw/preview" width="600" height="480"></iframe>
 
-If your browser does not support pdfs, you can download the 2019 codebook [here](https://drive.google.com/file/d/1hLDwlvfEoPG6_gxILRgOZKBv7rng_azw/view?usp=sharing).
+If your browser does not support pdfs, you can download the 2019 codebook [here](https://github.com/las-americas/cebrap/blob/gh-pages/2019-files/codebook-2019-brazil.pdf).
 
-The 2019 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/blob/main/surveys/brazil-2019-survey.pdf).
+The 2019 survey instrument (questionnaire) is available in [this link](https://github.com/las-americas/cebrap/blob/gh-pages/surveys/brazil-2019-survey.pdf).
 
 ## 2014
 
-The dataset for the 2014 Brazilian wave of the survey can be downloaded [here](https://github.com/catarinaroman/las-americas/blob/main/2014-files/2014-database.csv).
+The dataset for the 2014 Brazilian wave of the survey can be downloaded [here](https://github.com/las-americas/cebrap/blob/gh-pages/2014-files/2014-public-opinion-data.csv).
 The corresponding codebook follows below:
 
 
 If your browser does not support pdfs, you can download the 2014 codebook [here]().
 
-The 2014 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/blob/main/surveys/brazil-2014-survey.pdf).
+The 2014 survey instrument (questionnaire) is available in [this link](https://github.com/las-americas/cebrap/blob/gh-pages/surveys/brazil-2014-survey.pdf).
 
 ## 2011
 
-The dataset for the 2011 leadership survey can be dowloaded [here](https://github.com/catarinaroman/las-americas/tree/main/2011-files)
+The dataset for the 2011 leadership survey can be dowloaded [here](https://github.com/las-americas/cebrap/blob/gh-pages/2011-files/2011-leader-data.dta)
 The corresponding codebook follows below:
 
 If your browser does not support pdfs, you can download the 2011 codebook [here]().
 
 
 
-The 2010 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/tree/main/2011-files).
+The 2010 survey instrument (questionnaire) is available in [this link](https://github.com/las-americas/cebrap/blob/gh-pages/surveys/brazil-2010-survey.pdf).
 
 
 
@@ -134,7 +134,7 @@ If your browser does not support pdfs, you can download the 2010 codebook [here]
 
 
 
-The 2010 survey instrument (questionnaire) is available in [this link](https://github.com/catarinaroman/las-americas/blob/main/surveys/brazil-2010-survey.pdf).
+The 2010 survey instrument (questionnaire) is available in [this link](https://github.com/las-americas/cebrap/blob/gh-pages/surveys/brazil-2010-survey.pdf).
 
 
 
