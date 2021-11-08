@@ -102,9 +102,31 @@ If your browser does not support pdfs, you can download the 2019 codebook [here]
 
 The 2019 survey instrument (questionnaire) is available in [this link](https://github.com/las-americas/cebrap/blob/gh-pages/surveys/brazil-2019-survey.pdf).
 
+## 2018
+
+The dataset for the 2018 Brazilian leadership wave of the survey can be downloaded [here](https://github.com/las-americas/cebrap/blob/main/2018-files/leaders-2018-data.xlsx)
+
+The corresponding codebook follows below:
+
+If your browser does not support pdfs, you can download the 2018 codebook [here]().
+
+The 2018 survey instrument (questionnaire) is available in [this link]().
+
+
+## 2016
+
+The dataset for the 2016 Brazilian leadership wave of the survey can be downloaded [here](https://github.com/las-americas/cebrap/blob/main/2016-files/2016-leader-data.xlsx)
+
+The corresponding codebook follows below:
+
+If your browser does not support pdfs, you can download the 2016 codebook [here]().
+
+The 2016 survey instrument (questionnaire) is available in [this link](https://github.com/las-americas/cebrap/blob/main/surveys/2016-leader-questionnaire.pdf).
+
 ## 2014
 
 The dataset for the 2014 Brazilian wave of the survey can be downloaded [here](https://github.com/las-americas/cebrap/blob/gh-pages/2014-files/2014-public-opinion-data.csv).
+
 The corresponding codebook follows below:
 
 
@@ -119,15 +141,13 @@ The corresponding codebook follows below:
 
 If your browser does not support pdfs, you can download the 2011 codebook [here]().
 
-
-
 The 2010 survey instrument (questionnaire) is available in [this link](https://github.com/las-americas/cebrap/blob/gh-pages/surveys/brazil-2010-survey.pdf).
-
 
 
 ## 2010
 
 The dataset for the 2010 Brazilian wave of the survey can be downloaded [here]().
+
 The corresponding codebook follows below:
 
 If your browser does not support pdfs, you can download the 2010 codebook [here]().
