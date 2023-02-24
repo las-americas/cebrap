@@ -77,7 +77,11 @@ All the data collected in the survey waves conducted by the international teams 
 
 # The Reports
 
-The project team produces reports -- in Portuguese -- for each wave of the surveys. The report for the 2019 round is under construction. Below is the report for the 2014 results.
+The project team produces reports -- in Portuguese -- for each wave of the surveys. Below is the report with the 2018-19 results.
+
+<iframe src="https://drive.google.com/file/d/1Vq275i3ek9Kc-Ds9tcj36EuMRc_X4gPp/preview" width="640" height="480" allow="autoplay"></iframe>
+
+Next is the report for the 2014 wave.
 
 <iframe src="https://drive.google.com/file/d/1XU-iezaawkZ__0-5wtsOxFdNo9_t0k2U/preview" width="600" height="480" allow="autoplay"></iframe>
 
