@@ -3,9 +3,9 @@
 This is a repository for reference of the data gathered by the _Las Americas_ international research project, and it is organized by scholars in the Brazilian branch. In Brazil, Las Americas researchers receive funding from _The São Paulo Research Foundation_ (FAPESP) and they are hosted by the _Brazilian Center of Analysis and Planning_ (CEBRAP). The principal investigator in this effort is [Maria Hermínia Tavares de Almeida](http://lattes.cnpq.br/4797882536342819), along with [Feliciano de Sá Guimarães](http://lattes.cnpq.br/7107955008495284), and [Ivan Fernandes](https://sites.google.com/site/ivanfilipefernandes/).
 
 This project aims to study perceptions of issues in foreign policy and international affairs among both the general Brazilian public and Brazilian elites. It is comprised of three related subprojects: 
-1. The third wave of the "Las Americas" panel survey with Brazilian elites, foreign policy specialists, and the lay public; 
+1. The fifth wave of the "Las Americas" panel survey with Brazilian elites, foreign policy specialists, and the lay public; 
 2. Data collection for the Foreign Policy Press Observatory, which consists of cataloging a new dataset of the foreign policy discussions in major Brazilian media outlets; 
-3. An experiment on how lay public preferences influence elite foreign policy positions. 
+3. Social Media data collection.
 
 The first subproject constitutes the backbone of this proposal. It continues the international collaborative research Las Américas y el Mundo, undertaken by a network of researchers and institutions, and coordinated by the Centro de Investigación y Docencia Económicas (CIDE) in Mexico. We will conduct the third wave of the panel survey, which is repeated every four years. It is comprised of two surveys: the first with social and political leaders, and foreign policy specialists, on a sample of 200; and the second, a representative survey of the Brazilian public, on a stratified sample of 1500. In both cases, we will include experimental questions varying the information contents offered to the respondents, thus aiming to clarify and causally identify research problems. We also seek to uncover how the lay public perceives and learns about international affairs. 
 
